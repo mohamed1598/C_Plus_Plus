@@ -1,0 +1,2 @@
+﻿  pre post in order.cpp
+E:\New folder\c++\pre post in order\pre post in order\pre post in order.cpp(257): error C4703: potentially uninitialized local pointer variable 'trailCurrent' used

@@ -1,0 +1,4 @@
+﻿  Game of Two Stacks.cpp
+E:\New folder\c++\Game of Two Stacks\Game of Two Stacks\Game of Two Stacks.cpp(26,23): error C2563: mismatch in formal parameter list
+E:\New folder\c++\Game of Two Stacks\Game of Two Stacks\Game of Two Stacks.cpp(26,23): error C2568: '=': unable to resolve function overload
+E:\New folder\c++\Game of Two Stacks\Game of Two Stacks\Game of Two Stacks.cpp(26,23): message : could be 'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'

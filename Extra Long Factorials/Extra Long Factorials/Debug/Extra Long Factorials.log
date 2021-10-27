@@ -1,0 +1,3 @@
+﻿  Extra Long Factorials.cpp
+E:\New folder\c++\Extra Long Factorials\Extra Long Factorials\Extra Long Factorials.cpp(11,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Extra Long Factorials.vcxproj -> E:\New folder\c++\Extra Long Factorials\Debug\Extra Long Factorials.exe

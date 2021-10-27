@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+E:\New folder\ConsoleApplication1\ConsoleApplication1\employee.h(5,1): error C2011: 'employee': 'class' type redefinition
+E:\New folder\ConsoleApplication1\ConsoleApplication1\employee.h(4): message : see declaration of 'employee'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\engineer.h(4,1): error C2504: 'employee': base class undefined
+E:\New folder\ConsoleApplication1\ConsoleApplication1\sales.h(4,1): error C2504: 'employee': base class undefined
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,39): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,14): error C2440: '=': cannot convert from 'engineer *' to 'employee *'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,11): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13,8): error C2027: use of undefined type 'employee'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\employee.h(4): message : see declaration of 'employee'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,14): error C2440: '=': cannot convert from 'sales *' to 'employee *'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,11): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+E:\New folder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,8): error C2027: use of undefined type 'employee'
+E:\New folder\ConsoleApplication1\ConsoleApplication1\employee.h(4): message : see declaration of 'employee'

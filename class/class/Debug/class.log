@@ -1,0 +1,3 @@
+﻿  class.cpp
+E:\New folder\class\class\class.cpp(11,84): warning C4305: 'argument': truncation from 'double' to 'float'
+  class.vcxproj -> E:\New folder\class\Debug\class.exe
